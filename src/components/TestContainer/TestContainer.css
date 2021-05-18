@@ -1,0 +1,17 @@
+.test-container {
+  background: #fff;
+  margin: 64px 0;
+  width: 80%;
+  margin-left: 10%;
+  min-height: 750px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 1px 17px 12px 4px rgb(0 0 0 / 12%), 0 5px 8px rgb(90 65 65 / 26%);
+}
+.try-again-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-grow: 1;
+
+}
